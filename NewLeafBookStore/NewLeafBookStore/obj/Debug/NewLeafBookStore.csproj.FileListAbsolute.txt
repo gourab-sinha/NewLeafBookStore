@@ -1,0 +1,6 @@
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\obj\Debug\NewLeafBookStore.csprojResolveAssemblyReference.cache
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\bin\Debug\NewLeafBookStore.exe.config
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\bin\Debug\NewLeafBookStore.exe
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\bin\Debug\NewLeafBookStore.pdb
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\obj\Debug\NewLeafBookStore.exe
+c:\users\gourab.sinha\documents\visual studio 2017\Projects\NewLeafBookStore\NewLeafBookStore\obj\Debug\NewLeafBookStore.pdb
